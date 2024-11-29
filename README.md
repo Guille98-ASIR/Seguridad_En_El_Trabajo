@@ -10,6 +10,8 @@ REFERENCIAS
 
 [Guia Prevencion de Riesgos Laborales](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/mod/resource/view.php?id=232512)
 
+[Unir](https://www.unir.net/revista/ingenieria/riesgos-laborales-informatica/)
+
 AUTORES
 
 [DSR](https://github.com/JohnDSil)
