@@ -1,7 +1,7 @@
 # Riesgos Laborales
 
 
-[Riesgo](img/amarillo.jpg)
+![Riesgo](img/amarillo.jpg)
 
 
 
