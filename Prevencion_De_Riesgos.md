@@ -1,6 +1,6 @@
 # **Prevención de Riesgos**
 
-![prevención](prevencion.jpg)
+![prevención](img/prevencion.jpg)
 
 
 
