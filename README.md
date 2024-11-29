@@ -13,5 +13,9 @@ REFERENCIAS
 AUTORES
 
 [DSR](https://github.com/JohnDSil)
+
+
 [IBL](https://github.com/IvanBL8)
+
+
 [GCR](https://github.com/Guille98-ASIR)
