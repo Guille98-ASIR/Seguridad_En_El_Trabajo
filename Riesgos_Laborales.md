@@ -1,6 +1,10 @@
 # Riesgos Laborales
 
 
+![Riesgo](img/amarillo.jpg)
+
+
+
 El trabajo informático desempeñado en oficinas no conlleva riesgos laborales tan graves como en otros sectores, como por ejemplo la construcción, pero eso no quiere decir que no existan peligros que deben ser mitigados.
 
 Los principales riesgos laborales que experimentan los trabajadores informáticos son:
