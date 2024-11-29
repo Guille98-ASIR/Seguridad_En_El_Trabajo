@@ -1,5 +1,10 @@
 # Seguridad En El Trabajo
 
+
+
+![fondo](img/hand.jpg)
+
+
 1.[Riesgos Laborales](Riesgos_Laborales.md)
 
 2.[Prevencion de Riesgos](Prevencion_De_Riesgos.md)
