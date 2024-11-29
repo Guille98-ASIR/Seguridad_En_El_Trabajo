@@ -1,5 +1,7 @@
 # **Prevención de Riesgos**
 
+![prevención](prevencion.jpg)
+
 
 
 Para mitigar estos riesgos, es esencial implementar una serie de medidas preventivas que promuevan un entorno de trabajo seguro y saludable. Algunas de estas medidas incluyen:
