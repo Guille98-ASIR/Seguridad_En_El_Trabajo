@@ -4,3 +4,4 @@ Conforme al video de la plataforma, al principio te explican que si tocamos una 
 
 Si en lugar de un sujeto de pruebas solo , tomamos 5, la descarga la tomarán los primeros individuos. Si utilizan placas de polietireno todos, menos el último, la descarga la tomará este mismo, pero también la tomara la persona al lado suya, dado que esta haciendo contacto con el suelo. pero si el también se sube a una placa de polietireno, no tomará la descarga.
 
+![altatension](img/altatension.jpg)
